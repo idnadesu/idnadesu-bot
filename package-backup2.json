@@ -1,7 +1,7 @@
 {
-    "name": "wh-mods-dev",
+    "name": "Andi-Gandor",
     "version": "3.0.0",
-    "description": "WhatsApp BOT By wahid",
+    "description": "WhatsApp BOT By Gandor",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -46,7 +46,7 @@
     ],
     "homepage": "https://github.com/Wahidhidayatulla/fix-bot-v1",
     "author": {
-        "name": "Wahidhidayatulla"
+        "name": "Andi Gandor"
     },
     "repository": {
         "type": "git",
