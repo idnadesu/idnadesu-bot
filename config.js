@@ -58,11 +58,11 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA GANDOR 357d3c85079c4e0818731
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['628XXXXXXXXXX', 'ANDI GANDOR', true],
+  ['6288220154946', 'ANDI GANDOR', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true],
-  ['-', '088220154946', true] //Ganti jd nomormu sama Namamu
-  // [number, dia creator/owner?, dia developer?]
+  ['-', '6288220154946', 'ANDI GANDOR' true] //Ganti jd nomormu sama Namamu
+  ['-' '6288220154946', 'owner'
 ] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
