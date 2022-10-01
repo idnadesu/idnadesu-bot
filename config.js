@@ -64,8 +64,8 @@ global.owner = [
   ['-', '6288220154946', 'ANDI GANDOR' true] //Ganti jd nomormu sama Namamu
   ['-' '6288220154946', 'owner'
 ] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = [6288220154946] // Want some help?
+global.prems = [6288220154946] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
